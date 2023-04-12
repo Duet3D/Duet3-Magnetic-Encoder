@@ -31,7 +31,7 @@ sock_face_depth = 3;
 // Board Params
 // ------------
 
-// Magnetic sensor board v0.2
+// Magnetic sensor board v0.2, v0.3
 board_min_height = 2.5;
 
 // Magnet Params
